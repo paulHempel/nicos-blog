@@ -1,0 +1,117 @@
+---
+layout: null
+title: Affenschaukel
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            <h1>Die Affenschaukel</h1>
+						<h2>Ein Schmankerl fürs Hirn!</h2>
+						<p>Flieh, solange du noch kannst!</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">Affenschaukel</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Vorspiel</a></h2>
+									<p>Tach, du Affe! Das war sicher nicht das letzte Mal, dass ich dich in diesem Blog als Affen bezeichnet habe. Warum? Weil ich gerne Leute beleidige.</p>
+								</header>
+								<a href="#" class="image main"><img class="image" src="{{ "/images/vorspiel.jpeg" | absolute_url }}" alt="" /></a>
+                <p>
+									Sehr viel mehr Hintergrund gibt’s nicht. Irgendwann dachte ich mir jedenfalls, dass es eigentlich ziemlich unfair sei, wenn nur ich allein den ganzen Tag meine eigenen Gedanken aushalten müsse. Daher keimte in mir die Idee auf, das Internet für genau das zu missbrauchen, wofür es schon seit Jahren missbraucht wird: Selbstdarstellung. Allerdings ist das in meinem Fall was Gutes, da hier ja nur Qualität dargestellt wird. (Wer bis zu diesem Punkt noch nicht verstanden haben sollte, dass hier 90% Ironie am Werk sind, der geht am besten wieder zurück auf Instagram oder ins Fitnessstudio, da ist es sicherer für euch (tut nicht so weh im Kopf)).
+								</p>
+								<p>
+								Für alle die jetzt noch da sind: Schön, dass ihr’s so lange ausgehalten habt. Hier findet ihr Essays zu allen möglichen Themen, die einem das Leben an den Kopf schmeißt. Ich habe keine Ambitionen, euch zu weiterbilden, ich will euch einfach eure Lebenszeit stehlen.
+								</p>
+								<p>
+									Obacht, diese Essaysammlung hat nicht den Anspruch, ein philosophisches Werk zu sein. Sonst hätte ich sie anstelle von „Die Affenschaukel“ auch „Kritik der fehlenden Vernunft“ genannt. Der Begriff „philosophisch“ wird sowieso viel zu oft durch die Gegend geschmissen, sobald Leute, die nicht sonderlich buchstabenaffin sind, auf etwas treffen, was irgendwie mit dem Leben an sich zu tun hat, sie aber so gar nicht verstehen.
+								</p>
+								<p><em>
+								BotoxBabe69 auf Tinder: „Träume nicht dein Leben, sondern lebe deinen Traum!“<br />
+								Kevin: „Krass, Digga, voll philosophisch, ischwör!“<br />
+								Ich: „Nein, Kevin, das ist nicht Philosophie, sondern geistiger Abfall. Und jetzt geh wieder mit deinem Fidgetspinner spielen.“
+							</em></p>
+								<p>
+								Ich denke, mit diesem fiktiven Austausch, der sich genau so in der Linie 566 nach Hanau abgespielt hat, habe ich die Szene gesetzt für das, was dich hier erwarten wird. 
+								Und jetzt viel Spaß auf deiner Reise durch meine besorgniserregenden Gedanken…
+								<br />
+
+								…du Affe!
+								</p>
+								</p>
+
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:2 %}
+                {% assign mod2 = forloop.index | modulo: 2 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Mehr ...</a></li>
+  									</ul>
+  								</article>
+                  {% if mod2 == 0 %}
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>

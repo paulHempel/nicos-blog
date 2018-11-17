@@ -1,13 +1,10 @@
 # Site
 title:              Affenschaukel
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+bio:                'Ich bin ein Affe der gerne schreibt'
 description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+locale:             ger
+url: "die-affenschaukel.de" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
-# Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-formspree_thankyou_page: /thank-you
 
 defaults:
 - scope:
@@ -33,20 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
-
-# Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
-
-# personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
 
 # Gems
 gems:
@@ -59,8 +42,6 @@ gems:
 paginate: 6
 paginate_path: "/blog/page:num/"
 
-jekyll-mentions:
-    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

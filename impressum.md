@@ -9,16 +9,14 @@ lastmod: 2017-11-02
 
 ## Angaben gem&auml;&szlig; &sect; 5 TMG
 
-Max Mustermann
-Musterstra&szlig;e 111  
-Geb&auml;ude 44  
-90210 Musterstadt
+Nico Imhof
+Gutenbergallee 52a
+63538 Grosskrotzenburg
 
 ## Kontakt
 
 Telefon: +49 (0) 123 44 55 66  
-Telefax: +49 (0) 123 44 55 99  
-E-Mail: mustermann@musterfirma.de
+E-Mail: nico@die-affenschaukel.de
 
 ### Haftung f&uuml;r Inhalte
 

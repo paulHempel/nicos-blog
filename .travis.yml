@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.1
+  - 2.4.1
 deploy:
   provider: s3
   access_key_id: AKIAJESWGWGIEX4RUBJA
@@ -12,5 +12,6 @@ deploy:
     repo: paulHempel/nicos-blog
   region: eu-central-1
 install: gem install jekyll -v 2.4.0 && gem install s3_website
-script: jekyll build
+script: 
+- bundle exec jekyll build --trace
 after_success: s3_website push

@@ -2,9 +2,9 @@ language: ruby
 rvm:
   - 2.4.1
 
-install: gem install jekyll html-proofer s3_website
-script: jekyll build && htmlproofer ./_site
-after_success: s3_website push
+script:
+ - bundle exec jekyll build --trace
+ after_success: bundle exec s3_website push
 
 # script:
 #    - bundle exec jekyll build --trace

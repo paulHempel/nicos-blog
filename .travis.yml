@@ -2,13 +2,16 @@ language: ruby
 rvm:
   - 2.4.1
 
-script: bundle exec jekyll build
-install: bundle install
-after_success: bundle exec s3_website push --headless
+script:
+  # first dump all the remote content as local files
+  - bundle exec dato dump
+  # then generate the website
+  - bundle exec dato jekyll build
 
-env:
-  global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+# env:
+#   global:
+#     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 deploy:
   provider: s3
@@ -16,9 +19,10 @@ deploy:
   secret_access_key:
     secure: ps5YR6ulKsHh28sn2Nc1vyjoPgpng7OU8N9ForGPQxnUBd4SU/LDmoUxW+3cM0D0BQ97FfRYGoWSZcE438T5y+Dg06xXgoGHDsCI8HG7qkVCQE+MQIAW7CukKZsZlTyA32SOFZpoH1XiYavB5sJC8uxo444b77FWk7sR08Brr3sqK8X10fkkWUlNBGX+RQMMf6pB7zpcynA91cBQXpikHYvKDDGCGJKd3X478EG3AyiAKWYOrGK3sIZrBZ1fpRqgo0TZMwNtEcn0bLehYNsQcdeGuKi8mjwLpW2kx3WTzyEWj54APjmi3Vxkchl9aKL3rdfuLWhJTVVLKSgGF+mJznSfKTkFyFLPCIFQNIeTVX4ILivXuLUQUr0TNz8LL41eepGWtrzh2FB/nmLB3DEsi8ucdvlWE35HmoTyI9UNp+apCQfQ3f+SlEpeTX8ckiICKaAFrLAdeU2iXuefReazhCi4eoUkHIHItGcCIx6xRS2Wqx93iOECAPTiwOx/xIc89Phtb1jzYp9LqaIVhaNHxVUPgq34cqj0RONlqRbkz+rjOEAtpueFWEvNUyL9z6tDr+QBIWTCmQYw/x2fdTBaA3zDGSbUV3I95DsFVH0GW3hufRC8HND71CjQmyNrANBz+33ZGT8e/9NWl/qt6uGLx3xjk7SL1actGCnleFhdt/0=
   bucket: affenschaukel
+  local_dir: public
   acl: public_read
-  on:
-    repo: paulHempel/nicos-blog
+  # on:
+  #   repo: paulHempel/nicos-blog
   region: eu-central-1
 
-exclude: [vendor]
+# exclude: [vendor]

@@ -2,25 +2,12 @@ language: ruby
 rvm:
   - 2.4.1
 
-
-# before_script:
-#  - chmod +x ./script/cibuild # or do this locally and commit
-
 script:
    - bundle exec jekyll build --trace
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-addons:
-  apt:
-    packages:
-    - libcurl4-openssl-dev
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler # caching bundler gem packages will speed up build
 
 deploy:
   provider: s3

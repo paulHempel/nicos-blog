@@ -10,6 +10,7 @@ deploy:
   acl: public_read
   on:
     repo: paulHempel/nicos-blog
+  region: eu-central-1
 # env:
 #   global:
 #   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true

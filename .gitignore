@@ -1,11 +1,15 @@
 <<<<<<< HEAD
 _site/
+vendor
+vendor/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 =======
 _site
 _site/
+vendor
+vendor/
 .DS_Store
 .sass-cache
 >>>>>>> init

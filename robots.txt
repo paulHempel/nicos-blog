@@ -1,0 +1,7 @@
+User-agent: UniversalRobot/1.0
+User-agent: mein-Robot
+Disallow: /quellen/dtd/
+
+User-agent: *
+Disallow: /impressum/index.html
+Disallow: /about/index.html

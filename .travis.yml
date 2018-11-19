@@ -4,9 +4,9 @@ rvm:
 
 script:
   # first dump all the remote content as local files
-  - bundle exec dato dump
+  - bundle exec jekyll build
   # then generate the website
-  - bundle exec dato jekyll build
+  # - bundle exec dato jekyll build
 
 
 # env:
@@ -21,6 +21,7 @@ deploy:
   bucket: affenschaukel
   local_dir: public
   acl: public_read
+  skip_cleanup: true  
   # on:
   #   repo: paulHempel/nicos-blog
   region: eu-central-1

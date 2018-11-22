@@ -15,7 +15,7 @@ Gutenbergallee 52a
 
 ## Kontakt
 
-Telefon: +49 (0) 123 44 55 66  
+Telefon: +49 (0) 6186 8246  
 E-Mail: nico@die-affenschaukel.de
 
 ### Haftung f&uuml;r Inhalte

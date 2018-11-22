@@ -13,6 +13,8 @@ sitemap:
 Mein Name ist Nico und ich mag keine Vorstellungsrunden. 
 Auf diesem meinem Blog mit dem prachtvollen Namen „Die Affenschaukel“ veröffentliche ich in unbestimmten Abständen mit fragwürdigem Humor angefüllte Essays zu allen erdenklichen Themen, die mir das Leben an den Kopf zu werfen beliebt.
 
+Lobend erwähnt sei außerdem mein Dude Paul, der all meinen Nörgeleien und Sägearbeiten an seinen Nerven zum Trotz diesen Blog eingerichtet hat und ohne den ich Dich nicht mit meinen abstrusen Texten traktieren könnte. Insofern könnte man sagen, das hier ist alles seine Schuld. Danke dafür!
+
 
 ## Disclaimer
 

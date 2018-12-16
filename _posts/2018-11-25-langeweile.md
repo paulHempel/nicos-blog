@@ -25,7 +25,7 @@ Nicht unbedingt, mein bemitleidenswerter Leser. Lass es mich erklären. (Als ob 
 > „Hör‘ doch auf, rumzujammern, ich arbeite in zwei Vollzeitjobs, um meine drei Dutzend Kinder zu ernähren, mache nebenher Power-Yoga und engagiere mich als ehrenamtlicher Baumblattzähler für die Gemeinde, in der ich wohne.“
 
 Cool.
-Es kann allerdings nicht das Ziel sein, Langeweile unter Bergen von Aktivitäten zu ersticken, bis man so viel zu tun hat, dass man sich einen Kalendereintrag fürs Atmen anlegen muss, weil bis Mitte nächsten Jahres dafür einfach keine Zeit ist. Und natürlich haben viele Menschen nicht einmal mehr so etwas wie Freizeit, geschweige denn Zeit für Langeweile, weil sie gerade so über die Runden kommen. Wenn man dem klassischen bürgerlichen Weltbild folgt, scheint das so genannte „Erwachsenenleben“ aus zwei simplen Komponenten bestehen:
+Es kann allerdings nicht das Ziel sein, Langeweile unter Bergen von Aktivitäten zu ersticken, bis man so viel zu tun hat, dass man sich einen Kalendereintrag fürs Atmen anlegen muss, weil bis Mitte nächsten Jahres dafür einfach keine Zeit ist. Und natürlich haben viele Menschen nicht einmal mehr so etwas wie Freizeit, geschweige denn Zeit für Langeweile, weil sie gerade so über die Runden kommen. Wenn man dem klassischen bürgerlichen Weltbild folgt, scheint das so genannte „Erwachsenenleben“ aus zwei simplen Komponenten zu bestehen:
 
 1. Arbeit suchen
 2. Arbeiten bis der Vorhang fällt

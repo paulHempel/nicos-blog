@@ -6,7 +6,7 @@ excerpt: "Die Verspätung dieses zweiten Teils meiner Abhandlung über das Schre
 image: "/images/SchreibenII.jpg"
 ---
 
-Tach! Wahrscheinlich hast Du Dich seitdem Du den [ersten Teil] (http://dieaffenschaukel.de/blog/texte_schreiben_I/) dieser staatlich aberkannten Ausbildung zum Meisterschriftsteller gelesen hast, danach verzehrt, mehr zu erfahren. Du konntest nächtelang kaum schlafen, hast Dich ruhelos hin und her gewälzt in ungeduldiger Erwartung des nächsten Artikels. Du hast gespürt, wie unvollständig Dein Leben war ohne das lebensnotwendige Wissen, das sich Dir erst im zweiten Teil offenbaren sollte.
+Tach! Wahrscheinlich hast Du Dich seitdem Du den [ersten Teil](http://dieaffenschaukel.de/blog/texte_schreiben_I/) dieser staatlich aberkannten Ausbildung zum Meisterschriftsteller gelesen hast, danach verzehrt, mehr zu erfahren. Du konntest nächtelang kaum schlafen, hast Dich ruhelos hin und her gewälzt in ungeduldiger Erwartung des nächsten Artikels. Du hast gespürt, wie unvollständig Dein Leben war ohne das lebensnotwendige Wissen, das sich Dir erst im zweiten Teil offenbaren sollte.
  
 Oder Du hast alternativ tatsächlich wichtige und bedeutende Dinge zu tun gehabt und es deswegen völlig vergessen. Beim letzten Mal habe ich Dich zum Schluss mit dem Schreckensszenario des träge vor sich hin blinkenden Cursors und einer stagnierenden Wortanzahl allein gelassen. Doch keine Sorge – Rettung (oder zumindest so etwas in der Art) naht.
 

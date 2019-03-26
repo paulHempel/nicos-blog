@@ -30,7 +30,7 @@ Zurück zum Thema. Es gibt ein ananasstämmiges Gericht, das aufgrund seiner Fä
 
 Tränenverschleierten Blickes musste ich in den Weiten des Internets ansehen, wie gegen Menschen gehetzt wurde, die Pizza Hawaii als die speisegewordene Göttlichkeit anerkennen, die sie ist. Nein, die Welt ist wahrlich nicht gerecht! Wenn Menschen, denen jeglicher Sinn für Schönheit, Eleganz und dafür, was auf eine Pizza gehört, abgeht, wenn diese Menschen laut, sinnentleert und obszön kreischend die Pizza Hawaii verhöhnen – da blutet dem feinsinnigen Genussmenschen das Herz. Tiefe Traurigkeit befällt mich in solcherlei Situationen ob dem Los der Welt.
 
-Auf dieser gewohnt heiteren Note verabschiede ich mich fürs Erste wieder von Dir, mein bemitleidenswerter Leser. Manch ein prosaisch veranlagter Skeptiker mag mich, der im Begriff zu gehen ist, nun am Ärmel greifend zurückhalten und fragen: „Warum zum Flötenreiniger hast Du jetzt Deine und meine Lebenszeit damit verschwendet, einen Artikel darüber zu schreiben, um eine Südfrucht zu beweihräuchern, gegen die ich allergisch bin? Und was hast Du eigentlich in den letzten zweieinhalb Monaten getrieben, dass Du nichts veröffentlicht hast?“
+Auf dieser gewohnt heiteren Note verabschiede ich mich fürs Erste wieder von Dir, mein bemitleidenswerter Leser. Manch ein prosaisch veranlagter Skeptiker mag mich, der im Begriff zu gehen ist, nun am Ärmel greifend zurückhalten und fragen: „Warum zum Flötenreiniger hast Du jetzt Deine und meine Lebenszeit damit verschwendet, einen Artikel darüber zu schreiben, um eine Südfrucht zu beweihräuchern, gegen die ich allergisch bin? Und was hast Du eigentlich in den letzten zwei Monaten getrieben, dass Du nichts veröffentlicht hast?“
 
 Zur ersten Frage: Weil ich es kann.
 

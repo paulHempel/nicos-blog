@@ -36,6 +36,6 @@ Doch bedenke stets dies: Nervensägen sind nicht einfach nur Quälgeister, die G
 
 Spätestens nach dieser glorreichen Ansprache sollte Dich das glühende Verlangen ergriffen haben, selbst eine Nervensäge zu werden, sofern Du es nicht bereits bist. Natürlich haben manche eine angeborene Begabung für die Kunst des Nervensägens und sind anderen, sozialverträglicher disponierten Individuen, damit ein Stück voraus. Das Auf-die-Nerven-Gen ist jedoch durchaus dominant und wenn Du Dich regelmäßig – es reichen auch nur zehn Minuten jeden Tag – in dieser Kunst übst, Dich gesund ernährst, Deine Möbel neu arrangierst und mir eine dreistellige Summe auf mein Konto überweist, kannst auch Du zu einem Guru des Grauens werden.
 
-Wohlan denn! Gestärkt mit unheilvoller Zuversicht und genährt mit diabolischen Wissen entlasse ich Dich nunmehr in die Welt. Mache mich stolz!
+Wohlan denn! Gestärkt mit unheilvoller Zuversicht und genährt mit diabolischem Wissen entlasse ich Dich nunmehr in die Welt. Mache mich stolz!
 
 Diesen Text widme ich Maggo, meinem gelehrigsten Schüler im Fach „Verteidigung gegen die guten Sitten“.

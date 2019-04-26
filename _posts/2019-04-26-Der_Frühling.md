@@ -32,6 +32,7 @@ Auf dem Höhepunkt des Grauens bricht der verstörende Traum in sich zusammen un
 
 Ich erwache. Um mich herum ist nichts als Dunkelheit. Dunkelheit und Kälte. Dunkelheit, da der Rollladen heruntergelassen ist; Kälte, da die Heizung in meinem Zimmer nur dann funktioniert, wenn ihr danach ist. Alles ist so, wie ich es mag. So scheint es zumindest. Doch irgendetwas ist anders als sonst. Irgendetwas ist dort am Rande meines Bewusstseins, verschwommen am ebenfalls verschwommenen Rande meines Sichtfelds, ein schlechtes Gefühl in meinen Atemwegen. Aber den Rest kennst Du ja.
 
+
 ## Nachwort
 
 Zu Ostern dachte ich, wäre es mal wieder an der Zeit für etwas Erbauliches. Damit meine ich natürlich etwas Erbauliches für mich selbst. Also habe ich eine Pause vom Schreiben eingelegt, mich auf die Terrasse gesetzt, Pralinen verschlungen und Thomas Mann gelesen. Dann war Ostern vorüber und mein Text immer noch nicht fertig. Das erinnert mich an meinen Cousin Tanzende Natter, der, mit einer ähnlichen Situation konfrontiert, konstatierte: „Scheiße.“

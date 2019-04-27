@@ -18,7 +18,8 @@ Lobend erwähnt sei außerdem mein Dude Paul, der all meinen Nörgeleien und Sä
 
 ## Kontakt
 
-Sollten Dir - warum auch immer - Themen durch den Kopf spuken, die Du gerne von mir schriftlich verhandelt sehen würdest, scheue Dich nicht und lasse Dein Stimmchen erklingen. Am besten in Form einer Mail an: nico@die-affenschaukel.de
+Sollten Dir - warum auch immer - Themen durch den Kopf spuken, die Du gerne von mir schriftlich verhandelt sehen würdest, scheue Dich nicht und lasse Dein Stimmchen erklingen. Am besten in Form einer Mail an: 
+<dieaffenschaukel@gmail.com>
 
 Deine Beteiligung am Ideenfindungsprozess würde natürlich auch auf entsprechenden Wunsch hin in Form einer Nennung gewürdigt werden.
 

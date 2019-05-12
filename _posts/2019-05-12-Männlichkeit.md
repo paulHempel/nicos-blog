@@ -6,7 +6,8 @@ excerpt: "Hast Du Dich jemals gefragt, wann ein Mann ein Mann ist? Hier wirst Du
 image: "/images/Löw.jpg"
 ---
 
-#Vorwort des Oberaffen
+# Vorwort des Oberaffen
+
 Den gewieften und ausgefuchsten Exemplaren meiner bemitleidenswerten Leserschaft wird es bereits aufgefallen sein: Etwas ist anders als sonst. Viele Fragen werden in diesem Moment der Erkenntnis Dein besorgtes Gemüt bestürmen:
 
 „Wieso ist schon nach nur einer Woche ein neuer Artikel auf der Affenschaukel erschienen, anstatt nach den üblichen dreieinhalb? Ich habe mich psychisch doch noch gar nicht vom letzten erholt, meint mein Therapeut.“
@@ -24,8 +25,8 @@ Dein Labello mit Honig-Geschmack-Befürworter (ergibt Sinn, wenn Du den Artikel 
 Nico
 
 
-#Männlichkeit
-##Verfasst und zur kollektiven Weiterbildung vorgelegt von Jan
+# Männlichkeit
+## Verfasst und zur kollektiven Weiterbildung vorgelegt von Jan
 
 Kurze Info vorweg: Das ist nur ein Ferienjob, den ich hier mache. Ich hatte mich beim Jobcenter beworben – ich spare nämlich für eine elektrische Zahnbürste – und habe bei Geschlecht „m“ angekreuzt und angegeben, dass ich mal in der 8. Klasse den Wahlpflichtkurs „Kreatives Schreiben“ belegt habe. Aus diesem Grund bin ich hier gelandet. Ich werde auch gleich zur Sache kommen und mich direkt unserem höchst brisanten Thema widmen. Bevor hier der/die/das ein oder andere jetzt die Krallen ausfährt, weil es sich um eine Thematik handelt, welche sich auf dem heißen Pflaster der Gender-Studies verorten lässt, möchte ich darauf hinweisen, dass es sich hierbei lediglich um eine kleine Bestandsaufnahme handelt, die auf humoristische Weise zum Nachdenken anregen kann. Euer Blutdruck darf sich also wieder senken, nehmt es nicht zu Ernst, er nimmt es doch auch nicht.
 

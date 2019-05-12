@@ -21,7 +21,9 @@ Sei unbesorgt, mein Leserlein, auf all diese Fragen sollst Du Antworten erhalten
 Lehne Dich also zurück, begutachte noch einmal Deinen Bizepsumfang und kratze Dich an Stellen, die ich nicht näher spezifizieren will, während der Gastschreiber Jan seine Forschungsergebnisse zu der Rolle des modernen Mannes in der Gesellschaft, der Nahrungskette und auf dem Gebiet der Körperpflege zum Besten gibt.
 
 Dein Labello mit Honig-Geschmack-Befürworter (ergibt Sinn, wenn Du den Artikel liest)
+
 Nico
+
 
 
 ## Männlichkeit

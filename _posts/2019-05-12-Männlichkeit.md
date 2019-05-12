@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Männlichkeit
+title:  Gastartikel "Männlichkeit"
 date:   2019-05-12
 excerpt: "Hast Du Dich jemals gefragt, wann ein Mann ein Mann ist? Hier wirst Du vielleicht keine Antwort darauf finden, aber erfahren, warum wir uns alle diese Frage schon mal gestellt haben."
 image: "/images/Löw.jpg"

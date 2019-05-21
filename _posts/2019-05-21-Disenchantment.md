@@ -59,4 +59,5 @@ Die Verteidigung ruht. Und zwar sich erst einmal aus und wartet auf die zweite S
 ## Nachwort
 
 Warum *Disenchantment*?
+
 *Game of Thrones* befindet sich in dem Moment, in dem ich diese Worte in mein Word-Dokument zwänge, in seinen letzten, offenbar recht schmerzhaften narrativen Zuckungen, wenn man den teils völlig entgleisten Online-Artikeln Glauben schenken will. Wie einfach wäre es gewesen, sich dem Mob anzuschließen und eine insgesamt – alle Staffeln berücksichtigt – sehr unterhaltsame und weitenteils (bis einschließlich Staffel 6) wohlgeschriebene Serie zu verdammen. Hätte vielleicht mehr Leser an diesen Blog gefesselt. Doch eben das ist die Kerneigenschaft dieses Blogs, die ich immer geschätzt habe: Er ist so beängstigend unabhängig, dass er nicht mal eine Leserschaft braucht. Bald zieht er wahrscheinlich noch von zuhause aus und dann kann ich sehen, wo ich bleibe.

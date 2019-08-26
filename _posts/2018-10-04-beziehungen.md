@@ -40,7 +40,7 @@ Ist man als Single deswegen notwendigerweise einsam? Nein, nicht unbedingt. Denn
 
 Nun haben Beziehungen allerdings unbestritten Vorteile, die das Singletum nicht bieten kann. Von denen erzähle ich Dir, wenn ich Erfahrungen aus erster Hand gemacht habe.
 
-Was denn? Das war keine billige Ausrede, um ein Segment abzukürzen! Die Sache ist doch die, das jede Beziehung so sehr von ihren Zutaten abhängt, dass es schier unmöglich ist, allgemein etwas über Vorteile einer Beziehung an sich zu sagen. Dass es ganz nett ist, wenn einem jemand beim Spülen hilft, ist keine so bahnbrechende Erkenntnis, dass ich sie extra in diesem Blog, der gerade nur so vor bahnbrechenden Erkenntnissen überquillt extra erwähnen müsste, oder? Wer soll das denn auch alles wegwischen?
+Was denn? Das war keine billige Ausrede, um ein Segment abzukürzen! Die Sache ist doch die, dass jede Beziehung so sehr von ihren Zutaten abhängt, dass es schier unmöglich ist, allgemein etwas über Vorteile einer Beziehung an sich zu sagen. Dass es ganz nett ist, wenn einem jemand beim Spülen hilft, ist keine so bahnbrechende Erkenntnis, dass ich sie extra in diesem Blog, der gerade nur so vor bahnbrechenden Erkenntnissen überquillt extra erwähnen müsste, oder? Wer soll das denn auch alles wegwischen?
 
 > „Aber du musst lernen Kompromisse einzugehen und Verantwortung zu übernehmen. Und Kinder musst Du doch bestimmt auch wollen sollen.“
 

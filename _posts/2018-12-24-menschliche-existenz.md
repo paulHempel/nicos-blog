@@ -34,11 +34,11 @@ Du bist ein(e) kluge(r) Mann/Frau/Ikea Online Katalog. Ich mag Dich nicht.
 
 Wenn man es herunterbricht – was man vorsichtig tun sollte, weil sonst etwas kaputt gehen könnte – ist mehr oder weniger alles, was ein Mensch sagt oder tut eine Selbstinszenierung.
 
-Du gehst auf gehst auf ein Konzert? Selbstinszenierung.
+Du gehst auf ein Konzert? Selbstinszenierung.
 Du kaufst Klamotten? Boom! Selbstinszenierung.
 Du trägst eine Jutetasche mit Veganerpropaganda-Aufdruck mit dir herum? Aber so was von Selbstinszenierung.
 
-Das hat ja auch alles irgendwo seine Berechtigung. Bis auf diese absonderlich hässlichen Männerhandtäschchen von Glubschi und Lui Betong (Namen wie immer aus Angst vor Klagen geändert); dagegen sollten endlich mal Gesetze erlassen werden. Abgesehen davon sei es jedem selbst überlassen, sein Leben sinnig zu füllen. Denn es kann durchaus helfen, dem eigenen Charakter durch ein wenig (!) Inszenierung so etwas wie Tiefe zu verleihen.
+Das hat ja auch alles irgendwo seine Berechtigung. Bis auf diese absonderlich hässlichen Männerhandtäschchen von Glubschi und Lui Betong (Namen wie immer aus Angst vor Klagen geändert); dagegen sollten endlich mal Gesetze erlassen werden. Abgesehen davon sei es jedem selbst überlassen, sein Leben sinnig oder unsinnig zu füllen. Denn es kann durchaus helfen, dem eigenen Charakter durch ein wenig (!) Inszenierung so etwas wie Tiefe zu verleihen.
 
 Ablenkung ist ebenfalls ein solcher potentiell sinnfüllender Kandidat. Ein Kandidat, der dafür verantwortlich ist, dass es im Schnitt mehrere Dekaden dauert, bis einer meiner Texte fertig wird. Doch einem guten Wein gleich will jeder Text heranwachsen und reifen, damit sich sein voller Geschmack entfaltet und den Konsumenten mit seiner Vollmundigkeit verzückt. Zumindest rede ich mir das gerne ein. Tatsächlich ist das Schreiben selbst eine Art Ablenkung, so wie mehr oder weniger alles, was man im Leben tut. Wenn ich mich also um das Schreiben drücke, indem ich mehrere Folgen Archer in mein Hirn fluten lasse, bewege ich mich quasi auf einer Metaebene: Ablenkung von der Ablenkung.
 

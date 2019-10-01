@@ -5,7 +5,6 @@ date:   2019-05-21
 excerpt: "Die exquisit durchgedrehte Serie Disenchantment des legendären Zeichentricksers Matt Groening lungert seit nunmehr einem knappen Jahr auf Netflix herum. Mit der zweiten Staffel des (meiner Meinung nach) weitestgehend großartigen Fantasy-Zeichentrick-Schwachsinns in Aussicht, reiche ich pünktlich ein Jahr nach Erscheinen der Serie meine Gedanken zu dem Spektakel ein.
 
 Außerdem: Heute kein Bild, dafür mehr Text. Juhu!"
-image:
 ---
 
 Mein lieber lichter Richter, versehrte Geschorene,

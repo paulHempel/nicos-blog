@@ -32,7 +32,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">Affenschaukel</a>
+						<a href="/" class="logo">Affenschaukel</a>
 					</header>
 
 				<!-- Nav -->
@@ -52,7 +52,7 @@ sitemap:
 									<h2><a href="#">Vorspiel</a></h2>
 									<p>Tach! Ein weiser Mensch (Ich) stellte einst fest, dass das Leben viel mit einer Affenschaukel gemein habe: Es ist voller Affen und bewegt sich zwar irgendwie, aber es geht nie wirklich voran. Diesem weisen Menschen war natürlich bewusst, dass eine Affenschaukel eigentlich etwas völlig anderes war, doch eine bessere Eröffnung für seinen Blog war ihm einfach nicht eingefallen und so baute er darauf, dass sich dank der fehlenden Kommentarfunktion in seinem Blog niemand darüber beschweren konnte.</p>
 								</header>
-								<a href="#" class="image main"><img class="image" src="{{ "/images/vorspiel.jpeg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img class="image" src="/images/vorspiel.jpeg" alt="" /></a>
                 <p>Ich hoffe, diese Geschichtsstunde konnte Dein Leben bereichern. Wenn nicht, dann habe ich Dir wenigstens ein paar Sekunden Deines Lebens gestohlen.
 					
 					Jedenfalls dachte ich mir eines Tages, dass es eigentlich ziemlich unfair sei, wenn nur ich allein den ganzen Tag meine eigenen Gedanken aushalten müsse. Daher keimte in mir die Idee auf, das Internet für genau das zu missbrauchen, wofür es schon seit Jahren missbraucht wird: Selbstdarstellung. Allerdings ist das in meinem Fall was Gutes, da hier ja nur Qualität dargestellt wird.
@@ -86,7 +86,7 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  										<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   									</header>
   									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>

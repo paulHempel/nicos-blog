@@ -4,6 +4,7 @@ title:  Ein Jahr "Die Affenschaukel"
 date:   2019-09-30
 excerpt: "Eine Reflexion über 365 Tage intensives Schaukeln"
 image: "/images/EinJahrAffenschaukel.jpg"
+guest: false
 ---
 
 Sie haben mich ausgelacht, als ich sagte, ich würde einen Low-Budget-Blog zusammenzimmern (lassen), der derart obszön kosteneffizient wäre, dass selbst Dagobert Duck sich die Nackenfedern sträuben würden und ihn der plötzliche irrationale Drang überkäme, seinen hungernden, verarmten Neffen und seine drei Großneffen, die aufgrund ihrer telepathischen Begabung ihre Sätze gegenseitig vollenden, finanziell zu unterstützen. Was haben sie hämisch gekichert, als ich bekannt machen ließ, dass ich profundeste Weisheiten, wie sie sich nur den kundigsten Schöngeistern offenbaren, mit schier entwaffnender Eleganz in die Weiten des Netzes hinauszuposaunen gedachte. Doch nun sind sie verstummt, die Spötter, hauptsächlich deshalb, weil ich mich bewusst gegen eine Kommentarfunktion auf meinem Blog entschieden habe.

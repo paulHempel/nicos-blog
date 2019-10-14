@@ -35,19 +35,31 @@
 					<section class="posts">
 						{% for post in site.posts %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
+
+							{% if post.guest %}
+							<article class="guest">
+							{% else %}	
 							<article>
+							{% endif %}
+								{% if post.image %}
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								{% endif %}
 								<header>
+									{% if post.guest %}
+									<span class="date">{{ post.date | date_to_string }} | Gastartikel</span>
+									{% else %}
 									<span class="date">{{ post.date | date_to_string }}</span>
+									{% endif %}
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
+								{% if post.guest %}
+								<h4>Ein Gastbeitrag von {{ post.author }}</h2>
+								{% endif %}
+								<p class="bottom">{{ post.excerpt }}</p>
 								<ul class="actions">
 									<li><a href="{{ post.url | absolute_url }}" class="button">Gib' dem Affen Zucker!</a></li>
 								</ul>
 							</article>
-							{% if mod3 == 0 %}
-							{% endif %}
 						{% endfor %}
 
 					</section>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Wie, du isst kein Fleisch?
-date:   2019-10-14
+date:   2022-10-14
 excerpt: Ein kleiner Gastbeitrag vom wortwörtlichen Betreiber dieser Website, damit der geistige Betreiber mal ne Pause hat - oder so.
 image: "/images/vegan.jpg"
 guest: true

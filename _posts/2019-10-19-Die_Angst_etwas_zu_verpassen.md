@@ -3,7 +3,7 @@ layout: post
 title:  Die Angst, etwas zu verpassen oder „Hilfe, mein Leben ist uninteressant!“
 date:   2019-10-19
 excerpt: ""Ist der moderne Mensch gefangen in einem sozialen Konstrukt, das ihn nachgerade dazu zwingt, sein Leben interessant – oder zumindest nach Maßgabe der Gesellschaft interessant – zu gestalten?"
-- "Keine Ahnung, ich mach‘ hier nur ein Praktikum.""
+\- "Keine Ahnung, ich mach‘ hier nur ein Praktikum.""
 image: "/images/Angst-etwas-zu-verpassen.jpg"
 guest: false
 ---

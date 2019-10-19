@@ -26,6 +26,6 @@ deploy:
   #   repo: paulHempel/nicos-blog
   region: eu-central-1
 
-  after_deploy:
+after_deploy:
   - travis-ci-cloudfront-invalidation -a $AWS_ACCESS_ID -s $AWS_SECRET_ID -c $CF_ID -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST
 # exclude: [vendor]

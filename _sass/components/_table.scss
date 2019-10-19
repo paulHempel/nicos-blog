@@ -17,7 +17,7 @@
 
 		tbody {
 			tr {
-				border: solid 1px;
+				// border: solid 1px;
 				border-left: 0;
 				border-right: 0;
 			}
@@ -90,7 +90,7 @@
 					border-color: _palette($p, border);
 
 					&:nth-child(2n + 1) {
-						background-color: _palette($p, border-bg);
+						// background-color: _palette($p, border-bg);
 					}
 				}
 			}

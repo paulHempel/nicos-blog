@@ -2,10 +2,8 @@
 layout: post
 title:  Die Angst, etwas zu verpassen oder „Hilfe, mein Leben ist uninteressant!“
 date:   2019-10-19
-excerpt: ""Ist der moderne Mensch gefangen in einem sozialen Konstrukt, das ihn nachgerade dazu zwingt, sein Leben interessant – oder zumindest nach Maßgabe der Gesellschaft interessant – zu gestalten?"
-\- "Keine Ahnung, ich mach‘ hier nur ein Praktikum.""
+excerpt: "\"Ist der moderne Mensch gefangen in einem sozialen Konstrukt, das ihn nachgerade dazu zwingt, sein Leben interessant – oder zumindest nach Maßgabe der Gesellschaft interessant – zu gestalten?\" -  \"Keine Ahnung, ich mach‘ hier nur ein Praktikum.\""
 image: "/images/Angst-etwas-zu-verpassen.jpg"
-guest: false
 ---
 
 Zum Gruße, mein bemitleidenswerter Leser! Heute ist mir mal wieder danach, ein wenig Seelsorge zu betreiben. Nein, nicht weglaufen, diesmal stirbt niemand, versprochen! In der heutigen Ausgabe meiner dreimonatlich erscheinenden, eher zurückhaltend mit Quellen versehenen, in viel zu lange Sätze verpackten Internet-Weisheiten wollen wir eine Urangst des modernen Menschen an der Wurzel packen. Nein, es geht heute nicht um Spinnen, auch wenn die zugegebenermaßen eklig sind. Nein, es geht auch nicht um den seelenzerfressenden Moment, in dem Du der Bedienung gedankenlos ebenfalls einen guten Appetit wünschst und anschließend aufgrund dieser Blamage die nächsten drei Wochen nicht mehr richtig einschlafen kannst, weil Du Dich hin und her wälzt, während sich der peinlich berührte Blick der Kellnerin, der eine Sekunde lang auf Dir ruhte, bevor sie sich umdrehte, um sich schnell einem anderen Tisch mit normalen Leuten zu widmen, tiefer und immer tiefer in Dein gemartertes Hirn brennt, bis er Dein gesamte Bewusstsein ausfüllt und Dich von innen heraus auffrisst.
@@ -18,7 +16,7 @@ Aber nur, weil dieses Phänomen vor allem in der heutigen Zeit so besonders viru
 
 **Jedoch:** Durch den konstanten sozialen Druck der Narzisstengehege wie Ginsterkram, Fressschmuck oder Schnappbrett (Namen – wie immer – aus Angst vor Klagen geändert) ist der heutige Affenabkömmling mehr denn je damit konfrontiert, was seine Artgenossen (scheinbar!) alles in ihrem ach so töften Leben erreichen. Das potenziert die Angst, etwas zu verpassen und durch die Ubiquität (ich mag dieses Wort!) und durch den Umstand, dass das digitale Selbstdarstellertum längst zu einer gesellschaftlichen Normalität und mehr noch eigenen Form von Realität geworden ist, lebt der heutige Postprimat in einem konstanten Zustand des Zugzwangs: Ich muss unbedingt krasse Urlaubsfotos hochladen, am besten krassere als die von meinen anderen Kontakten; ich brauche ein vorzeigbares Männchen/Weibchen, das auf Fotos gut aussieht, am besten besser als die von meinen anderen Kontakten; ich brauche unbedingt eine bessere Karre, vor der ich mich räkeln kann, um meinem Nachbarn so richtig eine reinzuwürgen! Du erkennst das Muster. Höher, schneller, besser. Eine Art zwanghafte soziale Olympiade. Und da man jedes Mal, wenn man mit digitalen Daumen/Pfeilen nach oben/Herzen honoriert wird, von Glückshormonen durchflutet wird, ist der Anreiz groß, weiterhin der Goldmedaille nachzueifern.
 
-Das macht unter anderem deswegen Sinn, weil dem modernen Menschen eine zentrale, sinngebende Instanz im Leben fehlt. Nach ein paar Tausend Jahren ist die Kirche überraschenderweise als sinnstiftende gesellschaftliche Instanz für viele Menschen weggefallen (insofern hat Nietzsche Gott wohl eben doch überlebt). Der Beruf kann nur teilweise als sinnstiftend bezeichnet werden, vor allem, da die so genannten Generationen Y & Z wieder verstärkt Wert auf den Aspekt „life“ in der viel zitierten „Work-life-balance“ legen (siehe hierzu: https://www.faz.net/aktuell/wirtschaft/work-life-balance-generation-weichei-12002680.html), auch wenn keiner eine genau Ahnung hat, worin dieses „life“ überhaupt bestehen soll. Familie, Freunde, Beziehung, Hobbys am Ende vielleicht sogar Sport oder eine ausgewogene Ernährung?! Was bleibt also noch, wenn man weiter nach so etwas wie Sinn in der modernen Welt gräbt?
+Das macht unter anderem deswegen Sinn, weil dem modernen Menschen eine zentrale, sinngebende Instanz im Leben fehlt. Nach ein paar Tausend Jahren ist die Kirche überraschenderweise als sinnstiftende gesellschaftliche Instanz für viele Menschen weggefallen (insofern hat Nietzsche Gott wohl eben doch überlebt). Der Beruf kann nur teilweise als sinnstiftend bezeichnet werden, vor allem, da die so genannten Generationen Y & Z wieder verstärkt Wert auf den Aspekt „life“ in der viel zitierten „Work-life-balance“ legen (siehe hierzu: [FAZ](https://www.faz.net/aktuell/wirtschaft/work-life-balance-generation-weichei-12002680.html)), auch wenn keiner eine genau Ahnung hat, worin dieses „life“ überhaupt bestehen soll. Familie, Freunde, Beziehung, Hobbys am Ende vielleicht sogar Sport oder eine ausgewogene Ernährung?! Was bleibt also noch, wenn man weiter nach so etwas wie Sinn in der modernen Welt gräbt?
 
 „Nicht viel“ ist die deprimierende und offen gestanden zynische Antwort. Diese Lücke füllen die sozialen Medien oder zumindest geben sie erstaunlich gut vor, sie zu füllen. Ähnlich wie bei einer Packung Chips von funny fish (ja, das Thema schon wieder, es regt mich nämlich jedes Mal aufs Neue auf!) stellt sich bei genauerem Hinsehen allerdings heraus, dass der größte Teil davon nur heiße Luft ist.
 
@@ -26,15 +24,11 @@ Jetzt nörgele ich schon wieder wild herum, beschwöre apokalyptische Szenarien 
 
 Was vielleicht helfen mag, um diesen Punkt zu illustrieren, und ausnahmsweise nicht vollkommen menschenverachtend klingt, ist die Erkenntnis, dass wir zu jedem Zeitpunkt die volle Kontrolle darüber haben, was wir in unserem Leben für heitere Sachen anstellen. Das mag einerseits beruhigend sein, weil man nicht befürchten muss, von einem gelangweilten allmächtigen Hohlroller zum Spaß den Tag vermiest zu bekommen, wie es in der griechischen Mythologie der Alltag war:
 
-Vorhang auf
-
-(Auftritt Poseidon) 
-
-Poseidon: „Was, Odysseus, Du willst nach einem jahrelangen, zermürbenden Krieg zurück nach Hause zu Deiner Familie? Nee Keule, Du machst jetzt erst mal ein paar Jahrzehnte lang unfreiwillig eine Kreuzfahrt. Und das ohne Büffet!“
-
-Odysseus: „Neeeeeeeeiiiiiiiiiiiiiiiiiiin!!“
-
-Vorhang fällt, Tosender Applaus
+| | *Vorhang auf* |
+| | *(Auftritt Poseidon)* |
+| POSEIDON | „Was, Odysseus, Du willst nach einem jahrelangen, zermürbenden Krieg zurück nach Hause zu Deiner Familie? Nee Keule, Du machst jetzt erst mal ein paar Jahrzehnte lang unfreiwillig eine Kreuzfahrt. Und das ohne Büffet!“ |
+| ODYSSEUS: | „Neeeeeeeeiiiiiiiiiiiiiiiiiiin!!“ |
+| | *Vorhang fällt, tosender Applaus* |
 
 Andererseits kann die Verantwortung für die eigene Selbstverwirklichung auch zur Last werden. Wer ist nämlich dafür verantwortlich, wenn es mal nicht so laufen sollte, wie vorgesehen? Genau, das bist Du. Und das wiederum hört natürlich auch niemand gerne. Zugegeben, es gibt natürlich auch eine Reihe von Dingen, auf die man als Nicht-Batman einfach keinen Einfluss hat. Die Devise lautet daher also, den ganzen Schwachsinn, der sich im Internet und zu großen Teilen auch im echten Leben abspielt, idealerweise nicht allzu ernst zu nehmen. Das gilt auch und vor allem für diesen Blog. Willst Du Dir etwa von einem Blog mit einem verstörenden Affen als Maskottchen und Inhaber sagen lassen, was Du zu tun und zu lassen hast?
 

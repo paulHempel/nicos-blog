@@ -28,7 +28,7 @@
 		<!-- Posts -->
 		<div id="main">
 			<section class="posts">
-				{% for post in paginator.posts %}
+				{% for post in site.posts %}
 				{% if post.private != true %}
 
 				<a href="{{ post.url }}">
@@ -63,7 +63,7 @@
 		<!-- 
 			Showing buttons to move to the next and to the previous list of posts (pager buttons).
 		  -->
-		{% if paginator.total_pages > 1 %}
+		<!-- {% if paginator.total_pages > 1 %}
 		<nav>
 			{% if paginator.previous_page %}
 			<a class="button"
@@ -76,7 +76,7 @@
 			{% endif %}
 			</ul>
 		</nav>
-		{% endif %}
+		{% endif %} -->
 		<!-- Footer -->
 		{% include foot.html %}
 

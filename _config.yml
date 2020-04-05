@@ -30,19 +30,19 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-gems:
-  - jekyll-paginate-v2
+# gems:
+#   - jekyll-paginate-v2
     
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 7
-  offset: 0
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+# # Pagination Settings
+# pagination:
+#   enabled: true
+#   per_page: 7
+#   offset: 0
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

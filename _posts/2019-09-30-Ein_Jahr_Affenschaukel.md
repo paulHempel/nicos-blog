@@ -3,7 +3,7 @@ layout: post
 title:  Ein Jahr "Die Affenschaukel"
 date:   2019-09-30
 excerpt: "Eine Reflexion über 365 Tage intensives Schaukeln"
-image: "/images/EinJahrAffenschaukel.jpg"
+image: "/images/EinJahrAffenschaukel.webp"
 guest: false
 ---
 

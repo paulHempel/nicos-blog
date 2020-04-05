@@ -1,173 +1,198 @@
-///
-/// Massively by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
 /* Main */
 
-	#main {
-		background-color: _palette(bg);
-		position: relative;
-		margin: 0 auto;
-		margin-top: 8px;
-		width: calc(100% - #{_size(padding) * 2});
-		max-width: _size(wrapper);
-		z-index: 2;
-		border-radius: 8px;
+#main {
+	position: relative;
+	margin: 0 auto;
+	margin-top: 8px;
+	max-width: _size(wrapper);
+	z-index: 2;
+	border-radius: 8px;
 
-		> * {
-			@include padding((_size(padding) * 2), (_size(padding) * 2));
-			border-top: solid 2px _palette(border);
-			margin: 0;
+	@include breakpoint(small) {
+		margin: 0;
+		width: 100%;
+	}
 
-			&:first-child {
-				border-top: 0;
+	> footer {
+		text-align: center;
+	}
+
+	> .post {
+		header {
+			> img {
+				object-fit: cover;
+				width: 100%;
+			}
+
+			&.major {
+				margin-bottom: 2rem;
+
+				> h1,
+				h2 {
+					font-size: 4rem;
+					line-height: 1.1;
+					margin: 2rem 0 _size(element-margin) 0;
+				}
 			}
 		}
 
-		> footer {
-			text-align: center;
-		}
 
-		> .post {
-			@include padding((_size(padding) * 4), (_size(padding) * 4));
+
+		@include breakpoint(medium) {
+			header {
+				&.major {
+					height: 100%;
+
+				}
+			}
+		}
+		@include breakpoint(small) {
+
+
+			&.featured {
+				header {
+					&.major {
+
+						h2 {
+							margin-top: 2rem;
+							text-align: center;
+						}
+						> p {
+							text-align: center;
+						}
+					}
+				}
+			}
 
 			header {
 				&.major {
-					> .date {
-						margin-top: -2rem;
+					display: flex;
+					flex-direction: column;
+
+					> h1,
+					h2 {
+						font-size: 2.5rem;
+						line-height: 1.2;
+						margin: 0 0 (_size(element-margin) * 0.75) 0;
+						padding: 0 1rem 0 1rem;
+						text-align: left;
 					}
 
-					> h1, h2 {
-						font-size: 4rem;
-						line-height: 1.1;
-						margin: 0 0 _size(element-margin) 0;
-					}
-				}
-			}
+					> p {
+						text-align: left;
 
-			&.featured {
-				text-align: center;
-			}
-
-			@include breakpoint(large) {
-				@include padding((_size(padding) * 3), (_size(padding) * 2));
-			}
-
-			@include breakpoint(small) {
-				@include padding((_size(padding) * 2), (_size(padding) * 1));
-
-				header {
-					&.major {
-						> .date {
-							margin-top: -1rem;
-							margin-bottom: _size(element-margin);
-						}
-
-						> h1, h2 {
-							font-size: 2.5rem;
-							line-height: 1.2;
-							margin: 0 0 (_size(element-margin) * 0.75) 0;
-						}
+						padding: 0 1rem 0 1rem;
 					}
 				}
 			}
 		}
+	}
 
-		> .posts {
-			@include flexgrid((
-				columns:			2,
-				gutters:			(_size(padding) * 4),
-				horizontal-align:	center,
-				vertical-align:		flex-start,
-				flush:				false
-			));
-			width: 100%;
-			padding: 0;
+	> .posts {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		padding: 0;
 
-			> .guest {
-				background-color: #eeeeee;
-			}
+		> .guest {
+			background-color: #eeeeee;
+		}
+
+		> a {
+			min-height: 15rem;
+			margin-bottom: 2rem;
 
 			> article {
-				border-color: _palette(border);
-				border-left-width: 2px;
-				border-style: solid;
-				border-top-width: 2px;
-				text-align: center;
-
-				display: flex;
-				flex-direction: column;
-
-
-				> :last-child {
-					margin-bottom: 0;
+				> img {
+					margin-top: -1px;
+					width: 15rem;
+					height: 15rem;
+					object-fit: cover;
+					float: left;
+					margin-right: 2rem;
 				}
 
-				&:nth-child(2n - 1) {
-					border-left-width: 0;
+				> header {
+					padding-top: 10px;
+					padding-right: 10px;
+					> p {
+						padding-left: 17rem;
+						margin-bottom: 0;
+					}
 				}
 
-				&:nth-child(-n + 2) {
-					border-top-width: 0;
-				}
-
-
-				> .bottom {
-					flex-grow: 1;
-				}
 			}
+		}
 
-			@include breakpoint(medium) {
-				@include flexgrid-resize((
-					columns:			2,
-					gutters:			(_size(padding) * 2.5),
-					flush:				false
-				));
-			}
-
-			@include breakpoint(small) {
-				@include flexgrid-resize((
-					columns:			1,
-					gutters:			(_size(padding) * 2),
-					prev-columns:		2,
-					flush:				false
-				));
-
+		@include breakpoint(medium) {
+			> a {
 				> article {
-					&:nth-child(2n - 1) {
-						border-left-width: 2px;
-					}
-
-					&:nth-child(-n + 2) {
-						border-top-width: 2px;
-					}
-
-					&:nth-child(n) {
-						border-left-width: 0;
-					}
-
-					&:nth-child(-n + 1) {
-						border-top-width: 0;
-					}
-
-					.image {
-						max-width: 25rem;
-						margin-left: auto;
-						margin-right: auto;
+					> header {
+						> h2 {
+							margin-bottom: 0;
+						}
+						> span {
+							padding: 0;
+							margin: 0;
+						}
+						> p {
+							line-height: 1.2;
+						}
 					}
 				}
 			}
 		}
 
 		@include breakpoint(small) {
-			> * {
-				@include padding((_size(padding) * 1), (_size(padding) * 1));
+			margin-left: 0;
+			padding: 0;
+			> a {
+				min-height: 10rem;
+				> article {
+
+					padding: 0 1rem 0 0;
+					> img {
+						margin-top: -1px;
+						width: 10rem;
+						height: 10rem;
+						object-fit: cover;
+						margin-right: 16px;
+					}
+
+					> header {
+						padding: 0;
+
+						> h2 {
+							font-size: 1em;
+							padding: 0;
+							padding-top: 0.5rem;
+						}
+
+						> p {
+							text-align: left;
+							line-height: 1.5;
+							padding-left: 1rem;
+						}
+					}
+				}
+				&:first-child {
+					border-radius: 0;
+					> article {
+						> img {
+							border-radius: 0;
+						}
+					}
+				}
+
+				&:last-child {
+					border-radius: 0;
+					> article {
+						> img {
+							border-radius: 0;
+						}
+					}
+				}
 			}
 		}
-
-		@include breakpoint(xsmall) {
-			width: 100%;
-		}
 	}
+}

@@ -5,7 +5,7 @@ date:   2018-12-24
 excerpt: "Krosse-Krabbe-Kunde: „Finden Sie das etwa komisch?!“
 Plankton: „Kosmisch betrachtet irgendwie schon.“
 Spongebob Schwammkopf, Staffel 3, Folge 1"
-image: "/images/Existenz.jpg"
+image: "/images/Existenz.webp"
 ---
 
 Tach! Pünktlich zu Weihnachten lehnen wir uns in unserem Sessel zurück, genießen eine Tasse des Heißgetränks unserer Wahl, kuscheln uns in unsere Decke ein und DENKEN HARDCORE ÜBER DIE MENSCHLICHE EXISTENZ NACH, BIS ES UNS DIE SYNAPSEN ZERSPLÄDDERT!

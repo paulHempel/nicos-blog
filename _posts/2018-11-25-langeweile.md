@@ -3,7 +3,7 @@ layout: post
 title:  Langeweile
 date:   2018-11-25
 excerpt: "So was, der Essay handelt von Deinem Beweggrund, ihn zu lesen. Voll Meta!"
-image: "/images/Langeweile.jpg"
+image: "/images/Langeweile.webp"
 ---
 
 Tach! Hier sitze ich also, im Schein meiner Lavalampe, die bereits fünf Mal in und aus der Mode war und Schwierigkeiten hat, in Gang zu kommen. In diesem Sinne ist sie David Hasselhoff wohl sehr ähnlich. Leere Pringles-Dosen und Eisteeflaschen stapeln sich um mich herum. Ein Mahnmal für meine ausgewogene und gesunde Ernährung, die mir ein hohes Lebensalter bescheren wird. Augenringe zieren meine Sichtapparate… aber das tun sie immer. Auch generell ist mir die Situation leider nur allzu vertraut. Ich spüre den quälenden Zahn der Langeweile, der an mir nagt. Zur Langeweile pflege ich ein besonderes Verhältnis. Batman hat den Joker als seinen Erzfeind, Indiana Jones die Nazis und Donald Trump hat das Minimum menschlicher Intelligenz und alles, was darüber liegt, zu seinem Rivalen erklärt. Und wie bei jeder guten Held-Feind-Beziehung dient der jeweilige Antagonist als Spiegelfläche des Protagonisten. Jede Entscheidung des Helden wird durch den Antagonisten kontrastiert und hinterfragt.

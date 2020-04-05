@@ -3,7 +3,7 @@ layout: post
 title:  "Intelligenz"
 date:   2018-10-03
 excerpt: "Ich kann es quasi schon hören: 'Was, ausgerechnet Du schreibst über Intelligenz? Willst Du nicht lieber über etwas schreiben, von dem Du Ahnung hast?'"
-image: "/images/intelligenz.jpeg"
+image: "/images/intelligenz.webp"
 ---
 
 Tach! Ich kann es quasi schon hören: „Was, ausgerechnet Du schreibst über Intelligenz? Willst Du nicht lieber über etwas schreiben, von dem Du Ahnung hast? HAHAHIHIHEHEHUHU!“ 

@@ -3,7 +3,7 @@ layout: post
 title:  Texte schreiben - Teil II
 date:   2018-12-22
 excerpt: "Die Verspätung dieses zweiten Teils meiner Abhandlung über das Schreibwesen wird Dir wider Erwarten nicht von der Deutschen Bahn, sondern ironischerweise von einem Prachtexemplar einer Schreibblockade, gewürzt mit Erledigungen im so genannten „echten Leben“, präsentiert."
-image: "/images/SchreibenII.jpg"
+image: "/images/SchreibenII.webp"
 ---
 
 Tach! Wahrscheinlich hast Du Dich seitdem Du den [ersten Teil](http://dieaffenschaukel.de/blog/texte_schreiben_I/) dieser staatlich aberkannten Ausbildung zum Meisterschriftsteller gelesen hast, danach verzehrt, mehr zu erfahren. Du konntest nächtelang kaum schlafen, hast Dich ruhelos hin und her gewälzt in ungeduldiger Erwartung des nächsten Artikels. Du hast gespürt, wie unvollständig Dein Leben war ohne das lebensnotwendige Wissen, das sich Dir erst im zweiten Teil offenbaren sollte.

@@ -3,7 +3,7 @@ layout: post
 title:  Beziehungen
 date:   2018-10-04
 excerpt: "Wenn Du bereits beim Essay über Intelligenz dachtest, ich wäre nicht qualifiziert, dann lass mich Dir sagen: Das hat meine Gefühle verletzt."
-image: "/images/beziehungen.jpg"
+image: "/images/beziehungen.webp"
 ---
 
 Tach! Wenn Du bereits beim Essay über Intelligenz dachtest, ich wäre nicht qualifiziert, dann lass mich Dir sagen: Das hat meine Gefühle verletzt.
@@ -19,14 +19,14 @@ Die Dauerpärchen unter den Lesern fragen jetzt wahrscheinlich: Was soll denn da
 Ähnlich schematisiert scheint mir die Beziehungskiste zu sein: Pubertät, peinliche Erstversuche, erste Beziehung, Trennung, ernste Beziehung, Heirat, Tod. Auch hier finde ich mich nicht wirklich wieder. Bei mir wäre jeder Punkt „peinliche Erstversuche“. Da ich gelegentlich ein sehr analytischer Mensch bin, habe ich mich gefragt, woran das liegen könnte. Schließlich bin ich auf eine Antwort gestoßen, die ich bereits in vielerlei anderer Hinsicht gefunden habe: Das Problem bin nicht ich, das Problem sind die anderen!
 Aber jetzt mal so halb im Ernst: Beziehungen wird im gesellschaftlichen Kontext oftmals zu viel Bedeutung zugemessen. Augenbrauen heben sich, wenn man den Leuten eröffnet, dass man mit Zwanzig keine Freundin/Freund/Steinhaustier hat. Wobei ich die Empörung im Falle des Steinhaustiers sogar verstehen könnte. Es findet sofort folgender logischer Schluss statt:
 
-Prämisse 1: Wenn (Werauchimmer) alt + keinen Partner, dann ist (Werauchimmer) komisch.  
-Prämisse 2: (Du) bist alt.  
-Prämisse 3: (Du) hast keinen Partner.  
+Prämisse 1: Wenn (Werauchimmer) alt + keinen Partner, dann ist (Werauchimmer) komisch.
+Prämisse 2: (Du) bist alt.
+Prämisse 3: (Du) hast keinen Partner.
 ---  
-Zwischenkonklusion: (Du) bist alt + hast keinen Partner.  
-Prämisse 1: Wenn (Werauchimmer) alt + keinen Partner, dann ist (Werauchimmer) komisch.  
+Zwischenkonklusion: (Du) bist alt + hast keinen Partner.
+Prämisse 1: Wenn (Werauchimmer) alt + keinen Partner, dann ist (Werauchimmer) komisch.
 ---  
-Konklusion: (Du) bist komisch.  
+Konklusion: (Du) bist komisch.
 
 Ich bin mir sicher, dass jeder Mensch exakt auf diese Art und Weise denkt. Vielleicht schaue ich in letzter Zeit auch einfach zu viel „Sherlock“. Der hat übrigens auch keinen Partner. Es sei denn, man fragt die Leute auf tumblr. Dann hat er eine Affäre mit allem, was länger als drei Sekunden in der Serie zu sehen war. Mein Lieblingsship: #Shertin. Da wird Sherlock mit dem orangefarbenen Aston Martin von Ms Hudson aus Staffel 4 geshipt. Natürlich habe ich mir das gerade ausgedacht, aber der Umstand, dass Du es einen Moment lang geglaubt hast, sagt viel wie ich finde.
 

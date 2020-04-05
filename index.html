@@ -1,108 +1,114 @@
 ---
 layout: null
 title: Affenschaukel
-description: "Tach! Ein weiser Mensch (Ich) stellte einst fest, dass das Leben viel mit einer Affenschaukel gemein habe: Es ist voller Affen und bewegt sich zwar irgendwie, aber es geht nie wirklich voran."
+description: "Tach! Ein weiser Mensch (Ich) stellte einst fest, dass das Leben viel mit einer Affenschaukel gemein habe:
+Es ist voller Affen und bewegt sich zwar irgendwie, aber es geht nie wirklich voran."
 sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+priority: 1.0
+lastmod: 2017-11-02
+changefreq: weekly
 ---
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>Die Affenschaukel!</title>
-		{% include head.html %}
 
+<head>
+	<title>Die Affenschaukel!</title>
+	{% include head.html %}
+</head>
 
-	</head>
-	<body class="is-loading">
+<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
+		{% include nav.html %}
 
-				<!-- Intro -->
-					<div id="intro">
-            <h1>Die Affen&shy;schaukel</h1>
-						<h2>verantwortlich für Traumata since 2018</h2>
-						<p></p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly"></a></li>
-						</ul>
-					</div>
+		<!-- Main -->
+		<div id="main">
+			<img class="image hero" src="/images/hero.webp" />
 
-				<!-- Header -->
-					<header id="header">
-						<a href="/" class="logo">Affenschaukel</a>
-					</header>
+			<!-- Featured Post -->
+			<article class="post featured">
+				<header class="major">
+					<p>"Das Leben hat drei Kerneigenschaften mit einer Affenschaukel gemein. Es ist erstens zum Bersten
+						mit Affen angefüllt, es ist zweitens aus struktureller Sicht eine sehr fragwürdige Angelegenheit
+						und vermittelt drittens durch sein Vor- und Zurückschaukeln eine Illusion von Dynamik und
+						Bewegung, obwohl es im Endeffekt nirgendwo hinführt."</p>
+				</header>
+				<p>
+					Der Begriff der „Affenschaukel“ ist ein uraltes, geheimnisumranktes Konzept, über dessen wahre Natur
+					sich die gelehrten Geister bis heute streiten – ist es ein unpraktisches Möbelstück, eine
+					bestenfalls gewagte Zopf-Frisur, ein unpassendes Synonym für das @-Zeichen oder am Ende gar doch ein
+					schwingendes Stück Holz zur Belustigung unausgeglichener Primaten? Diese nebulös-schwachsinnige
+					Vieldeutigkeit von Auslegungen soll uns ein Sinnbild dafür sein, was Dich, meinen bemitleidenswerten
+					Leser, auf diesem Blog erwarten wird.
+				</p>
+				<p>
+					Dereinst, im September des Jahres 2018, begab es sich nämlich, dass mir der Gedanke kam, dass es
+					recht ungerecht sei, wenn nur ich allein den lieben langen Tag meine eigenen Gedanken ertragen
+					müsse. Daher keimte in mir die Idee auf, das Internet für genau das zu missbrauchen, wofür es schon
+					seit Jahren missbraucht wird: Selbstdarstellung. Allerdings ist das in meinem Fall etwas Gutes, da
+					hier selbstverständlich nur Qualität dargestellt wird.
+				</p>
+				<p>
+					Doch wie läuft nun eigentlich der Hase bzw. wie schaukelt denn nun eigentlich der Affe? „Die
+					Affenschaukel“ ist im Grunde ein Hort des Sprachspiels, der Lust am geistigen Filetieren
+					kultureller, philosophischer und in manchen Fällen schlicht wahnwitziger Themen. Das
+					kulturtheoretische und bisweilen philosophische Naturell meiner Abhandlungen kann dabei durchaus als
+					Berufs- und in manchen Fällen auch schlicht als Geisteskrankheit verbucht werden.
+				</p>
+				<p>
+					Der Modus dieser – mehr oder weniger glückenden – Verständigung zwischen Autor und Leser, den sich
+					dieser Blog auf die (Schnaps-)Fahne geschrieben hat, ist der des Essays. Frei und stilistisch
+					überladen sollen die schriftlichen Gedankenentfaltungen – seien sie von mir oder einem der
+					zahlreichen Gastautoren, die ich zum Dichten verpflichte, sollte ich erkennen, dass der übliche
+					Dreimonatsrhythmus meiner Publikationen sich als unvereinbar mit meinen zahlreichen Tätigkeiten von
+					internationaler Tragweite herausstellt – Deinen Geist umgarnen, ihn mit sarkastischer Koketterie und
+					überkonstruierten Satzgebilden einlullen.
+				</p>
+				<p>
+					In diesem Sinne wünsche ich Dir viel Spaß auf Deiner Reise durch meine besorgniserregenden Gedanken,
+					mein bemitleidenswerter Leser. Vergiss dabei jedoch nie: Egal, ob Lilie, Petunie oder Geranie: Die
+					schönste Blume der Welt ist und bleibt die Ironie.
+				</p>
+			</article>
 
-				<!-- Nav -->
-					<nav id="nav">
+			<section class="posts">
+				{% for post in site.posts limit: 2 %}
 
-            {% include nav.html %}
+				<a href="{{ post.url }}">
+					{% if post.guest %}
+					<article class="guest">
+						{% else %}
+						<article>
+							{% endif %}
+							{% if post.image %}
+							<img src="{{ post.image }}" />
+							{% else %}
+							<img src="/images/no_photo.png" />
+							{% endif %}
+							<header>
+								<h2>{{ post.title }}</h2>
+								{% if post.guest %}
+								<span class="date">{{ post.date | date_to_string }} | Ein Gastbeitrag von
+									{{ post.author }}</span>
+								{% else %}
+								<span class="date">{{ post.date | date_to_string }}</span>
+								{% endif %}
+								<p class="bottom">{{ post.excerpt | truncate: 150}}</p>
+							</header>
+						</article>
+				</a>
+				{% endfor %}
 
-					</nav>
+			</section>
 
-				<!-- Main -->
-					<div id="main">
+		</div>
 
-<!--End mc_embed_signup-->
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#">Vorspiel</a></h2>
-									<p>Das Leben hat drei Kerneigenschaften mit einer Affenschaukel gemein. Es ist erstens zum Bersten mit Affen angefüllt, es ist zweitens aus struktureller Sicht eine sehr fragwürdige Angelegenheit und vermittelt drittens durch sein Vor- und Zurückschaukeln eine Illusion von Dynamik und Bewegung, obwohl es im Endeffekt nirgendwo hinführt.</p>
-								</header>
-								<a href="#" class="image main"><img class="image" src="/images/vorspiel.jpeg" alt="" /></a>
-                				<p>
-									Der Begriff der „Affenschaukel“ ist ein uraltes, geheimnisumranktes Konzept, über dessen wahre Natur sich die gelehrten Geister bis heute streiten – ist es ein unpraktisches Möbelstück, eine bestenfalls gewagte Zopf-Frisur, ein unpassendes Synonym für das @-Zeichen oder am Ende gar doch ein schwingendes Stück Holz zur Belustigung unausgeglichener Primaten? Diese nebulös-schwachsinnige Vieldeutigkeit von Auslegungen soll uns ein Sinnbild dafür sein, was Dich, meinen bemitleidenswerten Leser, auf diesem Blog erwarten wird.
-								</p>
-								<p>
-									Dereinst, im September des Jahres 2018, begab es sich nämlich, dass mir der Gedanke kam, dass es recht ungerecht sei, wenn nur ich allein den lieben langen Tag meine eigenen Gedanken ertragen müsse. Daher keimte in mir die Idee auf, das Internet für genau das zu missbrauchen, wofür es schon seit Jahren missbraucht wird: Selbstdarstellung. Allerdings ist das in meinem Fall etwas Gutes, da hier selbstverständlich nur Qualität dargestellt wird.
-								</p>
-								<p>
-									Doch wie läuft nun eigentlich der Hase bzw. wie schaukelt denn nun eigentlich der Affe? „Die Affenschaukel“ ist im Grunde ein Hort des Sprachspiels, der Lust am geistigen Filetieren kultureller, philosophischer und in manchen Fällen schlicht wahnwitziger Themen. Das kulturtheoretische und bisweilen philosophische Naturell meiner Abhandlungen kann dabei durchaus als Berufs- und in manchen Fällen auch schlicht als Geisteskrankheit verbucht werden.
-								</p>
-								<p>
-									Der Modus dieser – mehr oder weniger glückenden – Verständigung zwischen Autor und Leser, den sich dieser Blog auf die (Schnaps-)Fahne geschrieben hat, ist der des Essays. Frei und stilistisch überladen sollen die schriftlichen Gedankenentfaltungen – seien sie von mir oder einem der zahlreichen Gastautoren, die ich zum Dichten verpflichte, sollte ich erkennen, dass der übliche Dreimonatsrhythmus meiner Publikationen sich als unvereinbar mit meinen zahlreichen Tätigkeiten von internationaler Tragweite herausstellt – Deinen Geist umgarnen, ihn mit sarkastischer Koketterie und überkonstruierten Satzgebilden einlullen.
-								</p>
-								<p>
-									In diesem Sinne wünsche ich Dir viel Spaß auf Deiner Reise durch meine besorgniserregenden Gedanken, mein bemitleidenswerter Leser. Vergiss dabei jedoch nie: Egal, ob Lilie, Petunie oder Geranie: Die schönste Blume der Welt ist und bleibt die Ironie.
-								</p>
-								
+		<!-- Footer -->
+		{% include foot.html %}
 
-							</article>
+	</div>
 
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:2 %}
-                {% assign mod2 = forloop.index | modulo: 2 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url }}" class="button">Gib' dem Affen Zucker!</a></li>
-  									</ul>
-  								</article>
-                  {% if mod2 == 0 %}
-                  {% endif %}
-                {% endfor %}
+</body>
 
-							</section>
-
-					</div>
-
-				<!-- Footer -->
-        {% include foot.html %}
-
-			</div>
-
-		<!-- Scripts -->
-		{% include scripts-main.html %}
-    {% include tracking.html %}
-
-	</body>
 </html>

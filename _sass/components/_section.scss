@@ -7,6 +7,7 @@
 /* Section/Article */
 
 	section, article {
+		padding: 0 1rem 0 1rem;
 		&.special {
 			text-align: center;
 		}
@@ -49,7 +50,6 @@
 		}
 
 		&.major {
-			margin: 0 0 (_size(element-margin) * 2) 0;
 			text-align: center;
 
 			> :last-child {

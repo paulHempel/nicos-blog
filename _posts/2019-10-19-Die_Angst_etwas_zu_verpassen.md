@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  Die Angst, etwas zu verpassen oder „Hilfe, mein Leben ist uninteressant!“
+title:  Die Angst, etwas zu verpassen <br /> oder <br /> „Hilfe, mein Leben ist uninteressant!“
 date:   2019-10-19
 excerpt: "\"Ist der moderne Mensch gefangen in einem sozialen Konstrukt, das ihn nachgerade dazu zwingt, sein Leben interessant – oder zumindest nach Maßgabe der Gesellschaft interessant – zu gestalten?\" -  \"Keine Ahnung, ich mach‘ hier nur ein Praktikum.\""
-image: "/images/Angst-etwas-zu-verpassen.jpg"
+image: "/images/Angst-etwas-zu-verpassen.webp"
 ---
-
 Zum Gruße, mein bemitleidenswerter Leser! Heute ist mir mal wieder danach, ein wenig Seelsorge zu betreiben. Nein, nicht weglaufen, diesmal stirbt niemand, versprochen! In der heutigen Ausgabe meiner dreimonatlich erscheinenden, eher zurückhaltend mit Quellen versehenen, in viel zu lange Sätze verpackten Internet-Weisheiten wollen wir eine Urangst des modernen Menschen an der Wurzel packen. Nein, es geht heute nicht um Spinnen, auch wenn die zugegebenermaßen eklig sind. Nein, es geht auch nicht um den seelenzerfressenden Moment, in dem Du der Bedienung gedankenlos ebenfalls einen guten Appetit wünschst und anschließend aufgrund dieser Blamage die nächsten drei Wochen nicht mehr richtig einschlafen kannst, weil Du Dich hin und her wälzt, während sich der peinlich berührte Blick der Kellnerin, der eine Sekunde lang auf Dir ruhte, bevor sie sich umdrehte, um sich schnell einem anderen Tisch mit normalen Leuten zu widmen, tiefer und immer tiefer in Dein gemartertes Hirn brennt, bis er Dein gesamte Bewusstsein ausfüllt und Dich von innen heraus auffrisst.
 
 Um solche Horrorszenarien wird es in diesem Artikel nicht gehen. Ich heiße ja schließlich nicht Stephen King. Noch nicht. Es geht vielmehr um die Angst, etwas zu verpassen. Zu Englisch: „the fear of missing out“ oder kurz FOMO. Diesen Begriff werde ich im Verlauf des Artikel *nicht* verwenden, weil FOMO erstens dämlich und zweitens wie ein Kunststoff klingt, der eine Erstickungsgefahr für Kleinkinder darstellt. Und das Letzte, was ich brauche, sind Helikoptereltern, die meinen ohnehin schon instabilen Blog kurzschließen wollen, weil Thorsten-Malte einfach zu individuell begabt ist, um sich selbst nicht alle drei Minuten in Lebensgefahr zu bringen.

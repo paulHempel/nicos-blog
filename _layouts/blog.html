@@ -1,79 +1,87 @@
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-	<head>
-    {% include head.html %}
 
-	</head>
-	<body class="is-loading">
+<head>
+	{% include head.html %}
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+</head>
 
-				<!-- Header -->
-				<header id="header">
-					<a href="/" class="logo">{{site.title}}</a>
-				</header>
+<body class="is-loading">
+
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
+		{% include nav.html %}
+
+		<!-- <ul class="post-list">
+			{% for post in paginator.posts %}
+			  <li>
+				<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		
+				<h2>
+				  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+				</h2>
+			  </li>
+			{% endfor %}
+		  </ul> -->
 
 
-				<!-- Nav -->
-					<nav id="nav">
+		<!-- Posts -->
+		<div id="main">
+			<section class="posts">
+				{% for post in paginator.posts %}
+				{% if post.private != true %}
 
-            {% include nav.html %}
-						
-					</nav>
-
-				<!-- Main -->
-				<div id="main">
-
-					<!-- Post -->
-					<section class="posts">
-						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-
-							{% if post.guest %}
-							<article class="guest">
-							{% else %}	
-							<article>
+				<a href="{{ post.url }}">
+					{% if post.guest %}
+					<article class="guest">
+						{% else %}
+						<article>
 							{% endif %}
-								{% if post.image %}
-								<a href="{{ post.url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
-								{% endif %}
-								<header>
-									{% if post.guest %}
-									<span class="date">{{ post.date | date_to_string }} | Gastartikel</span>
-									{% else %}
-									<span class="date">{{ post.date | date_to_string }}</span>
-									{% endif %}
-									<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-								</header>
+							{% if post.image %}
+							<img src="{{ post.image }}" />
+							{% else %}
+							<img src="/images/no_photo.png" />
+							{% endif %}
+							<header>
+								<h2>{{ post.title }}</h2>
 								{% if post.guest %}
-								<h4>Ein Gastbeitrag von {{ post.author }}</h2>
+								<span class="date">{{ post.date | date_to_string }} | Ein Gastbeitrag von
+									{{ post.author }}</span>
+								{% else %}
+								<span class="date">{{ post.date | date_to_string }}</span>
 								{% endif %}
 								<p class="bottom">{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url }}" class="button">Gib' dem Affen Zucker!</a></li>
-								</ul>
-							</article>
-						{% endfor %}
+							</header>
+						</article>
+				</a>
+				{% endif %}
+				{% endfor %}
 
-					</section>
+			</section>
+		</div>
 
-					</div>
+		<!-- 
+			Showing buttons to move to the next and to the previous list of posts (pager buttons).
+		  -->
+		{% if paginator.total_pages > 1 %}
+		<nav>
+			{% if paginator.previous_page %}
+			<a class="button"
+				href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Neuer
+				stuff</a>
+			{% endif %}
+			{% if paginator.next_page %}
+			<a class="button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Alter
+				Stuff</a>
+			{% endif %}
+			</ul>
+		</nav>
+		{% endif %}
+		<!-- Footer -->
+		{% include foot.html %}
 
-				<!-- Footer -->
-        {% include foot.html %}
+	</div>
 
-			</div>
+</body>
 
-			<!-- Scripts -->
-			{% include scripts-main.html %}
-			{% include tracking.html %}
-
-	</body>
 </html>

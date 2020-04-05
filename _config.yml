@@ -1,10 +1,10 @@
 # Site
 title:              Affenschaukel
 bio:                'Ich bin ein Affe der gerne schreibt'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "Der affengeilste Blog im ganzen Netz!"
 locale:             ger
-url: "die-affenschaukel.de" # the base hostname & protocol for your site
-background_image:   /images/Affenschaukel-Logo.png
+url:                "die-affenschaukel.de"
+
 
 defaults:
 - scope:
@@ -30,18 +30,19 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-
-# Gems
 gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-paginate: 6
-paginate_path: "/blog/page:num/"
-
+  - jekyll-paginate-v2
+    
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 7
+  offset: 0
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]

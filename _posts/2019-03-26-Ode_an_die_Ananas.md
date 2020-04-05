@@ -3,7 +3,7 @@ layout: post
 title:  Eine Ode an die Ananas
 date:   2019-03-26
 excerpt: "Von feinsinnigen Gourmets als Manifestierung reiner, wahrer Göttlichkeit gefeiert, unter Geschmacks-Snobs und Menschen, deren Geschmacksknospen offenbar noch nicht reif sind, verpönt: Die Ananas und all ihre herrlichen, verwandten Produkte – Sie bilden den gustatorischen Olymp, den zu besteigen nur die wenigsten Lebensmittel in der Lage sind. Und damit herzlich willkommen zum wahrscheinlich abgefahrensten Artikel, den ich bis dato verfasst habe."
-image: "/images/Ananas.jpg"
+image: "/images/Ananas.webp"
 ---
 
 Man verspottete mich, als ich die Ananas als Krönung der Natur und gleichsam ihr vollkommenstes Produkt proklamierte, dem Menschen weit überlegen in Form und Funktion. Man jagte mich von den Rednerbühnen; man schüttelte überheblich das Haupt und murmelte abfällige Bemerkungen – oder schrie sie mir nach. Doch die Wahrheit lässt sich nicht leugnen. Sie dringt aus dem Erdboden hervor und bildet einen etwa 30 cm hohen Stamm aus, der von zahlreichen langen, schmalen Blättern gesäumt wird. Erhaben thront sie auf der Spitze dieses Stamms und reckt ihre grüne Krone der tropischen Sonne entgegen.

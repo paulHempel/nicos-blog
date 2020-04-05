@@ -8,12 +8,10 @@
 
 	.image {
 		border: 0;
-		border-radius: 8px;
 		display: inline-block;
 		position: relative;
 
 		img {
-			border-radius: 8px;
 			display: block;
 		}
 
@@ -52,10 +50,11 @@
 			}
 		}
 
-		&.main {
+		&.hero {
 			display: block;
 			margin: (_size(element-margin) * 2) 0;
 			width: 100%;
+			align-self: flex-end;
 
 			&:first-child {
 				margin-top: 0;
@@ -63,16 +62,22 @@
 
 			img {
 				width: 100%;
-			}
-		}
-
-		@include breakpoint(small) {
-			&.fit {
-				margin: _size(element-margin) 0;
+				border-radius: 0;
 			}
 
-			&.main {
-				margin: _size(element-margin) 0;
+		
+
+			@include breakpoint(small) {
+				margin: 0;
+				border-radius: 0;
+
+				&.fit {
+					margin: _size(element-margin) 0;
+				}
+
+				&.hero {
+					margin: _size(element-margin) 0;
+				}
 			}
 		}
 	}

@@ -2,18 +2,10 @@ language: ruby
 rvm:
   - 2.6.3
 
-script:
-  # first dump all the remote content as local files
-  - gem install bundler
+before_script:
+  - gem install bundler:2.1.4
   - bundle update --bundler
   - bundle exec jekyll build
-  # then generate the website
-  # - bundle exec dato jekyll build
-
-
-# env:
-#   global:
-#     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 deploy:
   provider: s3
@@ -23,11 +15,5 @@ deploy:
   bucket: dieaffenschaukel.de
   local_dir: _site
   acl: public_read
-  skip_cleanup: true  
-  # on:
-  #   repo: paulHempel/nicos-blog
+  skip_cleanup: true
   region: eu-central-1
-
-after_deploy:
-  - travis-ci-cloudfront-invalidation -a $AWS_ACCESS_ID -s $AWS_SECRET_ID -c $CF_ID -i '/*' -b $TRAVIS_BRANCH -p $TRAVIS_PULL_REQUEST
-# exclude: [vendor]

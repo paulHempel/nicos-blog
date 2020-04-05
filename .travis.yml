@@ -4,7 +4,7 @@ rvm:
 
 script:
   # first dump all the remote content as local files
-  - gem install bundler:2.1.4
+  - gem install bundler
   # - bundle update --bundler
   - bundle exec jekyll build
   # then generate the website

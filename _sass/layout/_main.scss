@@ -1,5 +1,9 @@
 /* Main */
 
+img {
+	border-radius: 0.7rem;
+}
+
 #main {
 	position: relative;
 	margin: 0 auto;
@@ -7,6 +11,7 @@
 	max-width: _size(wrapper);
 	z-index: 2;
 	border-radius: 8px;
+	background-color: white;
 
 	@include breakpoint(small) {
 		margin: 0;
@@ -15,44 +20,50 @@
 
 	> footer {
 		text-align: center;
+		padding-bottom: 1rem;
 	}
 
 	> .post {
+		padding: 1rem;
 		header {
 			> img {
 				object-fit: cover;
 				width: 100%;
 			}
 
-			&.major {
-				margin-bottom: 2rem;
+			margin-bottom: 2rem;
 
-				> h1,
-				h2 {
-					font-size: 4rem;
-					line-height: 1.1;
-					margin: 2rem 0 _size(element-margin) 0;
-				}
+			> h1,
+			h2 {
+				font-size: 3rem;
+				line-height: 1.1;
+				margin: 2rem 2rem _size(element-margin) 0;
+				text-align: center;
+			}
+
+			> p {
+				text-align: center;
 			}
 		}
 
-
+		&.featured {
+			> img {
+				border-radius: 0.7rem;
+			}
+			margin-bottom: 8rem;
+		}
 
 		@include breakpoint(medium) {
 			header {
 				&.major {
 					height: 100%;
-
 				}
 			}
 		}
 		@include breakpoint(small) {
-
-
 			&.featured {
 				header {
 					&.major {
-
 						h2 {
 							margin-top: 2rem;
 							text-align: center;
@@ -65,24 +76,22 @@
 			}
 
 			header {
-				&.major {
-					display: flex;
-					flex-direction: column;
+				display: flex;
+				flex-direction: column;
 
-					> h1,
-					h2 {
-						font-size: 2.5rem;
-						line-height: 1.2;
-						margin: 0 0 (_size(element-margin) * 0.75) 0;
-						padding: 0 1rem 0 1rem;
-						text-align: left;
-					}
+				> h1,
+				h2 {
+					font-size: 2rem;
+					line-height: 1.2;
+					margin: 0 0 (_size(element-margin) * 0.75) 0;
+					padding: 0 1rem 0 1rem;
+					text-align: left;
+				}
 
-					> p {
-						text-align: left;
+				> p {
+					text-align: left;
 
-						padding: 0 1rem 0 1rem;
-					}
+					padding: 0 1rem 0 1rem;
 				}
 			}
 		}
@@ -93,18 +102,27 @@
 		flex-direction: column;
 		width: 100%;
 		padding: 0;
-
-		> .guest {
-			background-color: #eeeeee;
-		}
+		border-radius: 1rem;
 
 		> a {
+			border-top: 1px #eee solid;
+			// border-right: 1px #eee solid;
+
+			&:first-child {
+				border-top: 0px #eee solid;
+				> article {
+					margin-top: 1rem;
+				}
+			}
+
 			min-height: 15rem;
-			margin-bottom: 2rem;
+			margin-bottom: 1rem;
 
 			> article {
+				margin: 1rem 1rem 1rem 1rem;
 				> img {
-					margin-top: -1px;
+					border-radius: 0.7rem;
+
 					width: 15rem;
 					height: 15rem;
 					object-fit: cover;
@@ -113,6 +131,9 @@
 				}
 
 				> header {
+					cursor: pointer;
+
+					padding-top: 10px;
 					padding-top: 10px;
 					padding-right: 10px;
 					> p {
@@ -122,6 +143,11 @@
 				}
 
 			}
+		}
+
+		&.featured {
+			border-radius: 0;
+			border-top: 1px #eee solid;
 		}
 
 		@include breakpoint(medium) {
@@ -149,10 +175,7 @@
 			> a {
 				min-height: 10rem;
 				> article {
-
-					padding: 0 1rem 0 0;
 					> img {
-						margin-top: -1px;
 						width: 10rem;
 						height: 10rem;
 						object-fit: cover;
@@ -172,23 +195,6 @@
 							text-align: left;
 							line-height: 1.5;
 							padding-left: 1rem;
-						}
-					}
-				}
-				&:first-child {
-					border-radius: 0;
-					> article {
-						> img {
-							border-radius: 0;
-						}
-					}
-				}
-
-				&:last-child {
-					border-radius: 0;
-					> article {
-						> img {
-							border-radius: 0;
 						}
 					}
 				}

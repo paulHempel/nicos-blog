@@ -24,10 +24,11 @@ changefreq: weekly
 
 		<!-- Main -->
 		<div id="main">
-			<img class="image hero" src="/images/hero.webp" />
 
 			<!-- Featured Post -->
 			<article class="post featured">
+				<img class="image hero" src="/images/hero.webp" />
+
 				<header class="major">
 					<p>"Das Leben hat drei Kerneigenschaften mit einer Affenschaukel gemein. Es ist erstens zum Bersten
 						mit Affen angefüllt, es ist zweitens aus struktureller Sicht eine sehr fragwürdige Angelegenheit
@@ -72,7 +73,7 @@ changefreq: weekly
 				</p>
 			</article>
 
-			<section class="posts">
+			<section class="posts featured">
 				{% for post in site.posts limit: 2 %}
 
 				<a href="{{ post.url }}">

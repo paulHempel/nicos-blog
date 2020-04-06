@@ -6,7 +6,7 @@ excerpt: "Wenn Du bereits beim Essay über Intelligenz dachtest, ich wäre nicht
 image: "/images/beziehungen.webp"
 ---
 
-Tach! Wenn Du bereits beim Essay über Intelligenz dachtest, ich wäre nicht qualifiziert, dann lass mich Dir sagen: Das hat meine Gefühle verletzt.
+Wenn Du bereits beim Essay über Intelligenz dachtest, ich wäre nicht qualifiziert, dann lass mich Dir sagen: Das hat meine Gefühle verletzt.
 
 Und lass mich Dir auch noch sagen, dass ich wohl noch viel unqualifizierter bin, über das Thema Beziehung zu reden. Bei Intelligenz konnte ich noch relativ safe mitreden, weil ich zum Beispiel den Trick kenne, Wasser über einen Deckel laufen zu lassen, damit er sich leichter öffnen lässt. Bei Beziehungen fehlt mir allerdings (zu dem Zeitpunkt, an dem ich das hier schreibe) jegliche Praxiserfahrung. Manch einer würde sagen, dass mich das disqualifiziert, etwas darüber zu schreiben. Dieser jemand ist bis jetzt anscheinend noch nie mit einem Autor in Kontakt gekommen.
 

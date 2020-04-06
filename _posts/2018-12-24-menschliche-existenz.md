@@ -8,7 +8,7 @@ Spongebob Schwammkopf, Staffel 3, Folge 1"
 image: "/images/Existenz.webp"
 ---
 
-Tach! Pünktlich zu Weihnachten lehnen wir uns in unserem Sessel zurück, genießen eine Tasse des Heißgetränks unserer Wahl, kuscheln uns in unsere Decke ein und DENKEN HARDCORE ÜBER DIE MENSCHLICHE EXISTENZ NACH, BIS ES UNS DIE SYNAPSEN ZERSPLÄDDERT!
+Pünktlich zu Weihnachten lehnen wir uns in unserem Sessel zurück, genießen eine Tasse des Heißgetränks unserer Wahl, kuscheln uns in unsere Decke ein und DENKEN HARDCORE ÜBER DIE MENSCHLICHE EXISTENZ NACH, BIS ES UNS DIE SYNAPSEN ZERSPLÄDDERT!
 
 Gib’s zu, das hast Du nicht kommen sehen. Ich ehrlich gesagt auch nicht, aber dieser Text geisterte durch die düstersten und desolatesten Ecken meines OneDrives. Als ich ihn fand, glich er mehr einer wilden, rohen Bestie, als dem Werk literarischer Divinität, das sich nun vor Dir entfaltet. Wie Hercules mit der Hydra von Lerna rang, so focht ich mit diesem Stück ungezähmter Literatur. Zwanzig Tage und zwanzig Nächte lang währte der Kampf, bis die Bestie endlich unterlag. Mit letzter Kraft fütterte ich dem Visual Studio Code-Programm (frag mich bitte nicht, was das ist, ich weiß es selbst immer noch nicht genau) den bezwungenen Text und fiel in einen tausendjährigen Schlaf, aus dem ich erst dann erwachen sollte, wenn die Sterne günstig stünden, um aufs Neue die Welt mit Chaos und Furcht zu plagen.
 

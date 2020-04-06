@@ -6,7 +6,7 @@ excerpt: "Ich kann es quasi schon hören: 'Was, ausgerechnet Du schreibst über 
 image: "/images/intelligenz.webp"
 ---
 
-Tach! Ich kann es quasi schon hören: „Was, ausgerechnet Du schreibst über Intelligenz? Willst Du nicht lieber über etwas schreiben, von dem Du Ahnung hast? HAHAHIHIHEHEHUHU!“ 
+Ich kann es quasi schon hören: „Was, ausgerechnet Du schreibst über Intelligenz? Willst Du nicht lieber über etwas schreiben, von dem Du Ahnung hast? HAHAHIHIHEHEHUHU!“ 
 Lustig. Sieh nur, wie ich grinse, ich platze fast vor Lachen.
 
 Intelligenz ist ein sehr vager Begriff. An manchen Orten und in bestimmten Kreisen gilt man als intelligent, wenn man ein Weinglas schwenkend Shakespeare zitiert, obwohl kein Aas danach gefragt hat. Was man den mehr oder weniger beeindruckten Zuhörern nicht offenbart, ist, dass man den eleganten Ausspruch in der Pornoparodie von „Hamlet“ aufgeschnappt hat. Das Ende war dem des Originals erstaunlich ähnlich – alle stechen sich gegenseitig (ab). Zum Glück merkt das niemand, weil jeder erleichtert ist, dass den anderen nicht aufgefallen ist, dass man keine Ahnung hatte, von was die alte Weinschleuder geredet hat. Nach der Party fährt man dann nochmal bei McDonalds vorbei, weil es vor Ort nur dünn geschnittenen Käse und Hummus gab. Und beim Hummus wollte man einfach kein Risiko eingehen, weil es eher nach der Pampe klingt, die man sich ins Beet schüttet, als nach etwas Essbarem. Dieses Gesamtpaket nennt sich dann Bildungsbürgertum. Anderswo gilt man als intelligent, wenn man es schafft, das Haus zu verlassen ohne sich den Kopf in der Tür einzuklemmen oder die Kippe auszudrücken, ohne sich selbst zu entzünden. Das sind dann eher praxisorientierte Intelligenzformen.

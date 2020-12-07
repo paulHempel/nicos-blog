@@ -2,7 +2,7 @@
 layout: post
 title:  Die Angst, etwas zu verpassen <br /> oder <br /> „Hilfe, mein Leben ist uninteressant!“
 date:   2019-10-19
-excerpt: "\"Ist der moderne Mensch gefangen in einem sozialen Konstrukt, das ihn nachgerade dazu zwingt, sein Leben interessant – oder zumindest nach Maßgabe der Gesellschaft interessant – zu gestalten?\" -  \"Keine Ahnung, ich mach‘ hier nur ein Praktikum.\""
+excerpt: "\"Ist der moderne Mensch in einem sozialen Konstrukt gefangen, das ihn nachgerade dazu zwingt, sein Leben interessant zu gestalten?\" -  \"Keine Ahnung, ich mach‘ hier nur ein Praktikum.\""
 image: "/images/Angst-etwas-zu-verpassen.webp"
 ---
 Zum Gruße, mein bemitleidenswerter Leser! Heute ist mir mal wieder danach, ein wenig Seelsorge zu betreiben. Nein, nicht weglaufen, diesmal stirbt niemand, versprochen! In der heutigen Ausgabe meiner dreimonatlich erscheinenden, eher zurückhaltend mit Quellen versehenen, in viel zu lange Sätze verpackten Internet-Weisheiten wollen wir eine Urangst des modernen Menschen an der Wurzel packen. Nein, es geht heute nicht um Spinnen, auch wenn die zugegebenermaßen eklig sind. Nein, es geht auch nicht um den seelenzerfressenden Moment, in dem Du der Bedienung gedankenlos ebenfalls einen guten Appetit wünschst und anschließend aufgrund dieser Blamage die nächsten drei Wochen nicht mehr richtig einschlafen kannst, weil Du Dich hin und her wälzt, während sich der peinlich berührte Blick der Kellnerin, der eine Sekunde lang auf Dir ruhte, bevor sie sich umdrehte, um sich schnell einem anderen Tisch mit normalen Leuten zu widmen, tiefer und immer tiefer in Dein gemartertes Hirn brennt, bis er Dein gesamte Bewusstsein ausfüllt und Dich von innen heraus auffrisst.

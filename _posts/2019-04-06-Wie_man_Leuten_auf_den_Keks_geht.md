@@ -2,7 +2,7 @@
 layout: post
 title:  Wie man Leuten auf den Keks geht
 date:   2019-04-06
-excerpt: "Manche genießen einen guten Wein, andere gehen im Sport auf, während wieder andere über die Musik mit der Welt ins Reine kommen. Und manche gehen der edelsten aller Beschäftigungen nach – sie gehen den Leuten unheimlich auf den Keks."
+excerpt: "Manche genießen einen guten Wein, andere gehen im Sport auf, während wieder andere über die Musik mit der Welt ins Reine kommen. Und andere gehen der edelsten aller Beschäftigungen nach – sie gehen den Leuten unheimlich auf den Keks."
 image: "/images/Füchse.webp"
 ---
 
@@ -10,7 +10,7 @@ Zuerst ein Bekenntnis: Nicht immer, mein bemitleidenswerter Leser, war ich ein E
 
 Leuten auf den Keks zu gehen kann mit rechter Fuge als die edelste und wahrscheinlich älteste Kunst bezeichnet werden, die dem Menschen bekannt ist.
 
-Verfalle bloß nicht dem Glauben, dass Leute zu nerven eine banale und stillose Beschäftigung sei, um sich von der Leere in seinem eigenen öden, gleichförmigen Leben abzulenken – weit gefehlt! Leuten auf den Keks zu gehen ist ein wahrer Gentleman- bzw. Ladysport! Ich spreche dabei nicht vom primitiven Trolling, wie es 12-jährige auf ihren Minecraft-Servern mit ritueller Diligenz praktizieren, oder von der pestilenten Plage der „Pranks“, bei denen intelligenzallergische Mittzwanziger peinliche Aprilscherze durchführen, die schon damals im Micky-Maus-Magazin niemand für lustig befand, oder – Batman bewahre! – von Mobbing. Oh nein, ich spreche von einer Kunst. Der Kunst, anderen auf den Keks zu gehen mit Eleganz, dem rechten Maß und einem feinen Gespür für die eigene Selbsterhaltung.
+Verfalle bloß nicht dem Glauben, dass Leute zu nerven eine banale und stillose Beschäftigung sei, um sich von der Leere in seinem eigenen öden, gleichförmigen Leben abzulenken – weit gefehlt! Leuten auf den Keks zu gehen ist ein wahrer Gentleman- bzw. Ladysport! Ich spreche dabei nicht vom primitiven Trolling, wie es Zwölfjährige auf ihren Minecraft-Servern mit ritueller Diligenz praktizieren, oder von der pestilenten Plage der „Pranks“, bei denen intelligenzallergische Mittzwanziger peinliche Aprilscherze durchführen, die schon damals im Micky-Maus-Magazin niemand für lustig befand, oder – Batman bewahre! – von Mobbing. Oh nein, ich spreche von einer Kunst. Der Kunst, anderen auf den Keks zu gehen mit Eleganz, dem rechten Maß und einem feinen Gespür für die eigene Selbsterhaltung.
 
 Und nun willst Du sie also erlernen, die Kunst des Leuten-auf-den-Keks-gehens? Nein? Egal! Denn wie bereits Siddartha in Hermann Hesses großartigem, gleichnamigem Werk erkennen musste, kann man Weisheit nicht von anderen lernen, sondern muss sie selbst erlangen. Ich kann Dir den Pfad zur Nervensägen-Vollendung zwar zu weisen versuchen, doch gehen musst Du ihn selbst. Und zwar am besten, wenn ich gerade nicht in der Nähe bin.
 
